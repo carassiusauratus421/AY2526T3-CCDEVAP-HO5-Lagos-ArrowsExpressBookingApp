@@ -1,3 +1,8 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #e5f7db;
+}
 .card {
     border-radius: 15px;
     overflow: hidden;
